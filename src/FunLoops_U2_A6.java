@@ -1,5 +1,5 @@
 /* Hildana. M
- * FunLoops_U2_A6
+ * FunLoops_U2_A6.java
  * This program displays all the integer between two numbers inputed 
  * by an individual
  * March/28/2018
